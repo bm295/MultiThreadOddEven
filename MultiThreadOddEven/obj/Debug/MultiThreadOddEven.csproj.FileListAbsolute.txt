@@ -1,6 +1,0 @@
-D:\github\MultiThreadOddEven\MultiThreadOddEven\bin\Debug\MultiThreadOddEven.exe.config
-D:\github\MultiThreadOddEven\MultiThreadOddEven\bin\Debug\MultiThreadOddEven.exe
-D:\github\MultiThreadOddEven\MultiThreadOddEven\bin\Debug\MultiThreadOddEven.pdb
-D:\github\MultiThreadOddEven\MultiThreadOddEven\obj\Debug\MultiThreadOddEven.csprojResolveAssemblyReference.cache
-D:\github\MultiThreadOddEven\MultiThreadOddEven\obj\Debug\MultiThreadOddEven.exe
-D:\github\MultiThreadOddEven\MultiThreadOddEven\obj\Debug\MultiThreadOddEven.pdb
